@@ -1,2 +1,2 @@
 # My_Dtensor_servers
-My machine learning web server
+My machine learning web service
